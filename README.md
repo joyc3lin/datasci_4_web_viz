@@ -8,6 +8,9 @@ deployed shinyapps link: <https://joyc3lin.shinyapps.io/project/>
 # Reflections:
 
 **Challenges:** 
-dsfsdf
+
+_shiny_r:_ ran into error messages when deploying app from posit to shinyapps with <code>rsconnect::deployApp('/cloud/project/cdc.R')</code>
+
+_shiny_python:_ ran into an issue with pushing changes onto repo because I made a change to the README.md file on github. Solved it with git pull repo-link. 
 
 **Insights:** 
